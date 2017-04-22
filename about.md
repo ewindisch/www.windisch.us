@@ -1,15 +1,18 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I'm Erica, hi!
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I hack on Linux, containers, and serverless. I see code-as-deploy as delivering on the promise of microkernels... that operating systems such as Linux will become increasingly abstracted away, and that we will need fewer and less complex operating systems.
+
+I was an early contributor and core developer of OpenStack, and an early employee, developer, and maintainer of Docker where I also founded their security team and processes.
+
+Chromebooks are awesome. They're secure and disposable, should their security be compromised or suspect. You should have at least one.
+
+I believe in intersectional feminism.
+
+Otherwise... read my blog,
